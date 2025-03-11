@@ -11,9 +11,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="Katherine R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/katherine-r-1443b2240/)
 
 
-[LinkedIn]:[ www.linkedin.com/in/katherine-r-1443b2240](https://www.linkedin.com/in/katherine-r-1443b2240/)
+[linkedin]: https://www.linkedin.com/in/katherine-r-1443b2240/
 
 
 
