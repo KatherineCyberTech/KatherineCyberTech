@@ -1,8 +1,13 @@
 <h1>Hi, I'm Katherine! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
-<h2>👨‍💻Cybersecurity Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/KatherineCyberTech/LABURL)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/KatherineCyberTech/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/KatherineCyberTech/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/KatherineCyberTech/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KatherineCyberTech/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KatherineCyberTech/azure-network-protocols)
 
 
 <h2> Certifications </h2>
